@@ -3,11 +3,6 @@
 <!-- HERO SECTION -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Yasir%20Mahmood&fontSize=52&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AWS%20Cloud%20Enthusiast&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-<!-- ANIMATED TYPING -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+scalable+full-stack+applications;Architecting+serverless+solutions+on+AWS;Crafting+AI-powered+tools+%26+experiences" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <!-- QUICK BADGES -->
@@ -17,11 +12,9 @@
 
 <br/><br/>
 
-<!-- PROFILE VIEWS & FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=Yasir-Mahmood-124&style=for-the-badge&color=58a6ff&labelColor=0d1117&label=PROFILE+VIEWS" />
-&nbsp;
-<a href="https://github.com/Yasir-Mahmood-124?tab=followers">
-  <img src="https://img.shields.io/github/followers/Yasir-Mahmood-124?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS" />
+<!-- ANIMATED TYPING -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Building+scalable+full-stack+applications;Architecting+serverless+solutions+on+AWS;Crafting+AI-powered+tools+%26+experiences" alt="Typing SVG" />
 </a>
 
 </div>
@@ -125,36 +118,51 @@ I'm a **Computer Science graduate** from UET Lahore, currently building impactfu
   <br/><sub><b>PostgreSQL</b></sub>
 </td>
 <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" />
-  <br/><sub><b>DynamoDB</b></sub>
-</td>
-<td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
   <br/><sub><b>SQL</b></sub>
 </td>
 <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redux" />
+  <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
   <br/><sub><b>Redux</b></sub>
 </td>
 </tr>
 </table>
 
-### `Cloud & DevOps`
+### `AWS Cloud Services`
 
 <table>
 <tr>
 <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-  <br/><sub><b>AWS</b></sub>
+  <a href="#"><img src="https://img.shields.io/badge/-569A31?style=flat-square&logo=amazons3&logoColor=white" height="48" width="48" alt="S3" /></a>
+  <br/><sub><b>S3 Bucket</b></sub>
 </td>
 <td align="center" width="96">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="Lambda" />
+  <a href="#"><img src="https://img.shields.io/badge/-FF9900?style=flat-square&logo=awslambda&logoColor=white" height="48" width="48" alt="Lambda" /></a>
   <br/><sub><b>Lambda</b></sub>
 </td>
 <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-  <br/><sub><b>Vercel</b></sub>
+  <a href="#"><img src="https://img.shields.io/badge/-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" height="48" width="48" alt="Step Functions" /></a>
+  <br/><sub><b>Step Functions</b></sub>
 </td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" />
+  <br/><sub><b>DynamoDB</b></sub>
+</td>
+<td align="center" width="96">
+  <a href="#"><img src="https://img.shields.io/badge/-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white" height="48" width="48" alt="API Gateway" /></a>
+  <br/><sub><b>API Gateway</b></sub>
+</td>
+<td align="center" width="96">
+  <a href="#"><img src="https://img.shields.io/badge/-DD344C?style=flat-square&logo=amazoncognito&logoColor=white" height="48" width="48" alt="Cognito" /></a>
+  <br/><sub><b>Cognito</b></sub>
+</td>
+</tr>
+</table>
+
+### `Tools & Other`
+
+<table>
+<tr>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
   <br/><sub><b>Git</b></sub>
@@ -162,6 +170,10 @@ I'm a **Computer Science graduate** from UET Lahore, currently building impactfu
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
   <br/><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+  <br/><sub><b>Vercel</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
@@ -189,39 +201,69 @@ I'm a **Computer Science graduate** from UET Lahore, currently building impactfu
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Projects" width="28" height="28" />&nbsp; Featured Projects
 
 <div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/Yasir-Mahmood-124/cammi-marketing">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yasir-Mahmood-124&repo=cammi-marketing&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Yasir-Mahmood-124/kav-prime">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yasir-Mahmood-124&repo=kav-prime&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-</a>
+### 🤖 [Cammi AI — Marketing Assistant](https://github.com/Yasir-Mahmood-124/cammi-marketing)
 
-<br/><br/>
+AI-powered marketing assistant that generates GTM strategies, ICP documents, and execution-ready campaign plans including post creation, image generation, scheduling, and publishing.
 
-<a href="https://github.com/Yasir-Mahmood-124/House-Chore-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yasir-Mahmood-124&repo=House-Chore-App&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-</a>
+`Next.js` `TypeScript` `Redux Toolkit` `RTK Query` `MUI` `Ag-Grid`
 
+</td>
+<td width="50%">
+
+### 📦 [KavPrime — Inventory Management](https://github.com/Yasir-Mahmood-124/kav-prime)
+
+Comprehensive role-based inventory system with admin, manager, and employee roles. Features dynamic approval workflows and a full ticketing system for asset-related issues.
+
+`Next.js` `TypeScript` `MUI` `Django` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏫 [Institute Management System](https://expertb.net)
+
+Full-stack institute management handling student enrollment, fee management, batch & course administration with an integrated AI assistant for administrative queries.
+
+`React` `Node.js` `Express` `MongoDB` `Bootstrap`
+
+</td>
+<td width="50%">
+
+### 🌐 [Business Landing Pages + AI Chatbot](https://faithforgetech.com)
+
+Professional business sites with sales-driven AI chatbots powered by Groq API. Custom knowledge bases and system prompts per business, with email handling via Resend API.
+
+`Next.js` `TypeScript` `MUI` `Groq API` `Resend API`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏠 [Household Chores App](https://github.com/Yasir-Mahmood-124/House-Chore-App)
+
+Desktop application for hiring household task services with comprehensive CRUD operations for both admin and customer modules, streamlining service assignment workflows.
+
+`WinForms (.NET)` `C#` `SQL Server`
+
+</td>
+<td width="50%">
+
+### 💡 More Projects Coming Soon...
+
+Always building, always learning. Check out my [GitHub repos](https://github.com/Yasir-Mahmood-124?tab=repositories) for the latest work.
+
+`Innovation` `Open Source` `Cloud Native`
+
+</td>
+</tr>
+</table>
 </div>
-
-<br/>
-
-<details>
-<summary><b>📋 Project Details (click to expand)</b></summary>
-
-<br/>
-
-| Project | Tech Stack | Description |
-|---------|-----------|-------------|
-| **[Cammi AI](https://github.com/Yasir-Mahmood-124/cammi-marketing)** | Next.js, TypeScript, Redux, MUI, Ag-Grid | AI marketing assistant — GTM strategies, ICP docs, campaign plans with post creation, image gen & scheduling |
-| **[KavPrime](https://github.com/Yasir-Mahmood-124/kav-prime)** | Next.js, TypeScript, MUI, Django, PostgreSQL | Role-based inventory management with dynamic approval workflows & ticketing system |
-| **[Institute Mgmt](https://expertb.net)** | React, Node.js, Express, MongoDB | Student enrollment, fee management, batch admin with integrated AI assistant |
-| **[Business Landing Pages](https://faithforgetech.com)** | Next.js, TypeScript, MUI, Groq API | Professional sites with AI chatbots, custom knowledge bases & email via Resend API |
-| **[Household Chores App](https://github.com/Yasir-Mahmood-124/House-Chore-App)** | WinForms (.NET), C#, SQL Server | Desktop app for hiring household services with full CRUD for admin & customer modules |
-
-</details>
 
 <br/>
 
