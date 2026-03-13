@@ -133,27 +133,27 @@ I'm a **Computer Science graduate** from UET Lahore, currently building impactfu
 <table>
 <tr>
 <td align="center" width="96">
-  <picture><img src="https://cdn.simpleicons.org/amazons3/569A31" width="48" height="48" alt="S3" /></picture>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3" />
   <br/><sub><b>S3 Bucket</b></sub>
 </td>
 <td align="center" width="96">
-  <picture><img src="https://cdn.simpleicons.org/awslambda/FF9900" width="48" height="48" alt="Lambda" /></picture>
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="Lambda" />
   <br/><sub><b>Lambda</b></sub>
 </td>
 <td align="center" width="96">
-  <picture><img src="https://cdn.simpleicons.org/amazonaws/FF4F8B" width="48" height="48" alt="Step Functions" /></picture>
+  <img src="https://img.shields.io/badge/Step_Fn-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Step Functions" />
   <br/><sub><b>Step Functions</b></sub>
 </td>
 <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
   <br/><sub><b>DynamoDB</b></sub>
 </td>
 <td align="center" width="96">
-  <picture><img src="https://cdn.simpleicons.org/amazonapigateway/FF4F8B" width="48" height="48" alt="API Gateway" /></picture>
+  <img src="https://img.shields.io/badge/API_GW-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white" alt="API Gateway" />
   <br/><sub><b>API Gateway</b></sub>
 </td>
 <td align="center" width="96">
-  <picture><img src="https://cdn.simpleicons.org/amazoncognito/DD344C" width="48" height="48" alt="Cognito" /></picture>
+  <img src="https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logo=amazoncognito&logoColor=white" alt="Cognito" />
   <br/><sub><b>Cognito</b></sub>
 </td>
 </tr>
