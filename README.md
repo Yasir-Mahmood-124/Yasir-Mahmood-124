@@ -133,15 +133,15 @@ I'm a **Computer Science graduate** from UET Lahore, currently building impactfu
 <table>
 <tr>
 <td align="center" width="96">
-  <a href="#"><img src="https://img.shields.io/badge/-569A31?style=flat-square&logo=amazons3&logoColor=white" height="48" width="48" alt="S3" /></a>
+  <picture><img src="https://cdn.simpleicons.org/amazons3/569A31" width="48" height="48" alt="S3" /></picture>
   <br/><sub><b>S3 Bucket</b></sub>
 </td>
 <td align="center" width="96">
-  <a href="#"><img src="https://img.shields.io/badge/-FF9900?style=flat-square&logo=awslambda&logoColor=white" height="48" width="48" alt="Lambda" /></a>
+  <picture><img src="https://cdn.simpleicons.org/awslambda/FF9900" width="48" height="48" alt="Lambda" /></picture>
   <br/><sub><b>Lambda</b></sub>
 </td>
 <td align="center" width="96">
-  <a href="#"><img src="https://img.shields.io/badge/-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" height="48" width="48" alt="Step Functions" /></a>
+  <picture><img src="https://cdn.simpleicons.org/amazonaws/FF4F8B" width="48" height="48" alt="Step Functions" /></picture>
   <br/><sub><b>Step Functions</b></sub>
 </td>
 <td align="center" width="96">
@@ -149,11 +149,11 @@ I'm a **Computer Science graduate** from UET Lahore, currently building impactfu
   <br/><sub><b>DynamoDB</b></sub>
 </td>
 <td align="center" width="96">
-  <a href="#"><img src="https://img.shields.io/badge/-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white" height="48" width="48" alt="API Gateway" /></a>
+  <picture><img src="https://cdn.simpleicons.org/amazonapigateway/FF4F8B" width="48" height="48" alt="API Gateway" /></picture>
   <br/><sub><b>API Gateway</b></sub>
 </td>
 <td align="center" width="96">
-  <a href="#"><img src="https://img.shields.io/badge/-DD344C?style=flat-square&logo=amazoncognito&logoColor=white" height="48" width="48" alt="Cognito" /></a>
+  <picture><img src="https://cdn.simpleicons.org/amazoncognito/DD344C" width="48" height="48" alt="Cognito" /></picture>
   <br/><sub><b>Cognito</b></sub>
 </td>
 </tr>
@@ -297,14 +297,6 @@ Always building, always learning. Check out my [GitHub repos](https://github.com
 <br/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="28" height="28" />&nbsp; Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yasir-Mahmood-124&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" width="90%" alt="trophies" />
-
-</div>
-
-<br/>
 
 <div align="center">
 
