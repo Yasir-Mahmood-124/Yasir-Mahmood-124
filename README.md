@@ -4,29 +4,12 @@
 </h1>
 
 <h3 align="center">
-  Full-Stack Developer | AWS Cloud Enthusiast | MERN Stack Specialist
+  Software Engineer | AWS Cloud Enthusiast |
 </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Associate%20Software%20Engineer-Kavtech%20Solutions-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/BSCS-UET%20Lahore-0e75b6?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/yasirmahmood124">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Yasir-Mahmood-124">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:yasir.mahmood.3795@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Yasir-Mahmood-124&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Yasir-Mahmood-124?label=Followers&style=flat&color=0e75b6" alt="followers" />
 </p>
 
 ---
@@ -146,11 +129,12 @@ Desktop application for hiring household task services with comprehensive CRUD o
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" alt="Inbox Tray" width="30" height="30" /> Let's Connect
 
-I'm always interested in collaborating on innovative projects or discussing technology. Feel free to reach out!
-
 <p align="center">
   <a href="https://linkedin.com/in/yasirmahmood124">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Yasir-Mahmood-124">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://instagram.com/yasir_venture">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -158,12 +142,4 @@ I'm always interested in collaborating on innovative projects or discussing tech
   <a href="mailto:yasir.mahmood.3795@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Collision.png" alt="Collision" width="25" height="25" />
-  <b>Thanks for visiting my profile!</b>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Collision.png" alt="Collision" width="25" height="25" />
 </p>
