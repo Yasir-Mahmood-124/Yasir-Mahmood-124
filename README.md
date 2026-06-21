@@ -1,349 +1,183 @@
 <div align="center">
 
-<!-- HERO SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Yasir%20Mahmood&fontSize=52&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AWS%20Cloud%20Enthusiast&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:134e4a,100:0F172A&height=200&section=header&text=Yasir%20Mahmood&fontSize=48&fontColor=22C55E&fontAlignY=35&desc=Software%20Engineer%20%E2%80%94%20AI%20Applications%20%C2%B7%20Cloud%20Architecture%20%C2%B7%20Automation&descSize=16&descColor=94A3B8&descAlignY=55&animation=fadeIn" width="100%" />
 
 <br/>
 
-<!-- QUICK BADGES -->
-<img src="https://img.shields.io/badge/Associate%20Software%20Engineer-Kavtech%20Solutions-58a6ff?style=for-the-badge&labelColor=0d1117" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&repeat=true&width=550&height=40&lines=Building+AI-Powered+Business+Solutions;Architecting+Serverless+Systems+on+AWS;Shipping+Products+from+Idea+to+Production" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Software%20Engineer-Kavtech%20Solutions-22C55E?style=flat-square&labelColor=0F172A" />
 &nbsp;
-<img src="https://img.shields.io/badge/BS%20Computer%20Science-UET%20Lahore-58a6ff?style=for-the-badge&labelColor=0d1117" />
-
-<br/><br/>
-
-<!-- ANIMATED TYPING -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Building+scalable+full-stack+applications;Architecting+serverless+solutions+on+AWS;Crafting+AI-powered+tools+%26+experiences" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/BS%20Computer%20Science-UET%20Lahore-22C55E?style=flat-square&labelColor=0F172A" />
+&nbsp;
+<a href="https://yasirmahmood.dev">
+  <img src="https://img.shields.io/badge/Portfolio-yasirmahmood.dev-22C55E?style=flat-square&labelColor=0F172A" />
 </a>
 
 </div>
 
 <br/>
 
-<!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/>
+## About
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" height="28" />&nbsp; About Me
+I'm a software engineer who builds AI products and the unglamorous business systems that quietly keep companies running.
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="120" />
+Most of the problems I find interesting sit right between what a business needs and what's technically possible — turning a vague operational headache into software people actually use.
 
-I'm a **Computer Science graduate** from UET Lahore, currently building impactful software at **Kavtech Solutions**. I specialize in scalable full-stack applications with modern JavaScript frameworks and cloud-native architectures on AWS.
-
-&nbsp;&nbsp; **`🏢 Working at`** &nbsp; Kavtech Solutions *(June 2025 – Present)*
-
-&nbsp;&nbsp; **`🔨 Building`** &nbsp;&nbsp;&nbsp; AI-powered marketing tools & serverless apps on AWS
-
-&nbsp;&nbsp; **`👨‍🏫 Previously`** &nbsp; MERN Stack Trainer — mentored **100+ students**
-
-&nbsp;&nbsp; **`🎓 Education`** &nbsp; BS Computer Science, UET Lahore *(CGPA: 3.2/4.0)*
-
-&nbsp;&nbsp; **`💬 Ask me`** &nbsp;&nbsp;&nbsp;&nbsp; Next.js · React · TypeScript · AWS · MERN Stack
-
-&nbsp;&nbsp; **`📫 Email`** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yasir.mahmood.3795@gmail.com
+At **Kavtech Solutions** I work across the full stack — frontend, cloud architecture, AI, and the integrations that tie real tools together — shipping products that go from idea to something running in production.
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## What I Do
+
+| | Area | What it means |
+|:--|:--|:--|
+| **01** | **AI-Powered Applications** | Content assistants, marketing assistants, business intelligence, knowledge management tools |
+| **02** | **AI Automation** | Meeting intelligence, lead qualification, email/content generation, CRM and reporting automation |
+| **03** | **System Integrations** | Connecting Gmail, Google Workspace, WordPress, GA4, HubSpot, LinkedIn, and custom APIs into one workflow |
+| **04** | **Custom Internal Tools** | Dashboards, admin portals, reporting systems, workflow and inventory management platforms |
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" height="28" />&nbsp; Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### `Frontend`
+**Frontend**
 
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-  <br/><sub><b>Next.js</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-  <br/><sub><b>React</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-  <br/><sub><b>TypeScript</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-  <br/><sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="MUI" />
-  <br/><sub><b>Material UI</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-  <br/><sub><b>Bootstrap</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-  <br/><sub><b>HTML5</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-  <br/><sub><b>CSS3</b></sub>
-</td>
-</tr>
-</table>
+![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![MUI](https://img.shields.io/badge/Material%20UI-0F172A?style=flat-square&logo=mui&logoColor=007FFF)
+![Redux](https://img.shields.io/badge/Redux-0F172A?style=flat-square&logo=redux&logoColor=764ABC)
+![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
-### `Backend & Databases`
+**Cloud & Backend**
 
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-  <br/><sub><b>Node.js</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-  <br/><sub><b>Express</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-  <br/><sub><b>Django</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-  <br/><sub><b>MongoDB</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-  <br/><sub><b>PostgreSQL</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
-  <br/><sub><b>SQL</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-  <br/><sub><b>Redux</b></sub>
-</td>
-</tr>
-</table>
+![AWS Lambda](https://img.shields.io/badge/Lambda-0F172A?style=flat-square&logo=awslambda&logoColor=FF9900)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-0F172A?style=flat-square&logo=amazonapigateway&logoColor=FF4F8B)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-0F172A?style=flat-square&logo=amazondynamodb&logoColor=4053D6)
+![S3](https://img.shields.io/badge/S3-0F172A?style=flat-square&logo=amazons3&logoColor=569A31)
+![Step Functions](https://img.shields.io/badge/Step%20Functions-0F172A?style=flat-square&logo=amazonaws&logoColor=FF4F8B)
+![Django](https://img.shields.io/badge/Django-0F172A?style=flat-square&logo=django&logoColor=092E20)
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=node.js&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3776AB)
 
-### `AWS Cloud Services`
+**AI & Automation**
 
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3" />
-  <br/><sub><b>S3 Bucket</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="Lambda" />
-  <br/><sub><b>Lambda</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://img.shields.io/badge/Step_Fn-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Step Functions" />
-  <br/><sub><b>Step Functions</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
-  <br/><sub><b>DynamoDB</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://img.shields.io/badge/API_GW-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white" alt="API Gateway" />
-  <br/><sub><b>API Gateway</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logo=amazoncognito&logoColor=white" alt="Cognito" />
-  <br/><sub><b>Cognito</b></sub>
-</td>
-</tr>
-</table>
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-0F172A?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![OpenAI](https://img.shields.io/badge/OpenAI-0F172A?style=flat-square&logo=openai&logoColor=412991)
+![Claude](https://img.shields.io/badge/Claude%20API-0F172A?style=flat-square&logo=anthropic&logoColor=D4A27F)
+![RAG](https://img.shields.io/badge/Vector%20Search%20%2F%20RAG-0F172A?style=flat-square&logoColor=22C55E)
 
-### `Tools & Other`
+**Databases & Integrations**
 
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-  <br/><sub><b>Git</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-  <br/><sub><b>GitHub</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-  <br/><sub><b>Vercel</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-  <br/><sub><b>C#</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-  <br/><sub><b>.NET</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-  <br/><sub><b>C++</b></sub>
-</td>
-</tr>
-</table>
+![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=4169E1)
+![WordPress](https://img.shields.io/badge/WordPress-0F172A?style=flat-square&logo=wordpress&logoColor=21759B)
+![HubSpot](https://img.shields.io/badge/HubSpot-0F172A?style=flat-square&logo=hubspot&logoColor=FF7A59)
+![Google Cloud](https://img.shields.io/badge/Google%20APIs-0F172A?style=flat-square&logo=googlecloud&logoColor=4285F4)
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## Featured Work
 
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Projects" width="28" height="28" />&nbsp; Featured Projects
-
-<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 [Cammi AI — Marketing Assistant](https://github.com/Yasir-Mahmood-124/cammi-marketing)
+### Cammi — AI Marketing Platform
 
-AI-powered marketing assistant that generates GTM strategies, ICP documents, and execution-ready campaign plans including post creation, image generation, scheduling, and publishing.
+An AI platform that turns a blank page into a complete marketing campaign. Generates strategy documents, blogs, landing pages, case studies, and full campaigns — guided by an AI assistant grounded in each user's knowledge base via vector search. Integrates with WordPress, LinkedIn, Google Drive, HubSpot, Gmail, and GA4.
 
-`Next.js` `TypeScript` `Redux Toolkit` `RTK Query` `MUI` `Ag-Grid`
+`Next.js` `TypeScript` `AWS Bedrock` `Lambda` `Step Functions` `DynamoDB` `WebSockets`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📦 [KavPrime — Inventory Management](https://github.com/Yasir-Mahmood-124/kav-prime)
+### Inventory & Approval System
 
-Comprehensive role-based inventory system with admin, manager, and employee roles. Features dynamic approval workflows and a full ticketing system for asset-related issues.
+A request-and-approval system serving 150+ users across four roles that replaced spreadsheets and email chains with one source of truth. Employees request equipment, requests route through PMO → HR → Admin approval chains, and admins manage the full inventory lifecycle.
 
-`Next.js` `TypeScript` `MUI` `Django` `PostgreSQL`
+`Django` `Next.js` `TypeScript` `Material UI` `PostgreSQL`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏫 [Institute Management System](https://expertb.net)
+### Institute Management System
 
-Full-stack institute management handling student enrollment, fee management, batch & course administration with an integrated AI assistant for administrative queries.
+A complete management system for a computer-courses academy — admin operations, online enrollment, and an AI chatbot that recommends courses based on a student's skill level. Two-sided platform: staff manage courses, students, and fees; visitors browse, register, and get guided through course selection.
 
 `React` `Node.js` `Express` `MongoDB` `Bootstrap`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 [Business Landing Pages + AI Chatbot](https://faithforgetech.com)
+### This Portfolio
 
-Professional business sites with sales-driven AI chatbots powered by Groq API. Custom knowledge bases and system prompts per business, with email handling via Resend API.
+The site you might be reading about right now. Dark theme, emerald accents, aurora glassmorphism, 3D particle field, AI chatbot assistant powered by Groq, and a contact form wired through Resend. Fully responsive.
 
-`Next.js` `TypeScript` `MUI` `Groq API` `Resend API`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏠 [Household Chores App](https://github.com/Yasir-Mahmood-124/House-Chore-App)
-
-Desktop application for hiring household task services with comprehensive CRUD operations for both admin and customer modules, streamlining service assignment workflows.
-
-`WinForms (.NET)` `C#` `SQL Server`
-
-</td>
-<td width="50%">
-
-### 💡 More Projects Coming Soon...
-
-Always building, always learning. Check out my [GitHub repos](https://github.com/Yasir-Mahmood-124?tab=repositories) for the latest work.
-
-`Innovation` `Open Source` `Cloud Native`
+`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `Three.js` `Groq API` `Resend`
 
 </td>
 </tr>
 </table>
-</div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" height="28" />&nbsp; GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yasir-Mahmood-124&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="180" alt="streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yasir-Mahmood-124&theme=dark&hide_border=true&background=0F172A&stroke=1E293B&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" height="180" alt="streak stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yasir-Mahmood-124&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" height="175" alt="github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yasir-Mahmood-124&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22C55E&icon_color=22C55E&text_color=F8FAFC&count_private=true&include_all_commits=true" height="175" alt="github stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir-Mahmood-124&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="175" alt="top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir-Mahmood-124&layout=compact&hide_border=true&bg_color=0F172A&title_color=22C55E&text_color=F8FAFC&langs_count=8" height="175" alt="top languages" />
 
 <br/><br/>
 
-<!-- CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yasir-Mahmood-124&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yasir-Mahmood-124&theme=react-dark&bg_color=0F172A&color=22C55E&line=22C55E&point=F8FAFC&area=true&area_color=22C55E&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="contribution graph" />
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="28" height="28" />&nbsp; Achievements
+## Let's Connect
 
 <div align="center">
 
-| 🏆 | Achievement | Details |
-|:---:|------------|---------|
-| 📚 | **Academic Excellence** | 98.6% in F.Sc Pre-Engineering · 95.8% in Matriculation |
-| 👨‍🏫 | **Mentorship** | Trained 100+ students in MERN stack development |
-| ☁️ | **Cloud Architecture** | Multiple serverless solutions on AWS |
-| 🤖 | **AI Innovation** | Built AI-powered chatbots & marketing tools |
-
-</div>
+Whether you've got a product to build, a workflow to automate, or you're hiring — I'd like to hear about it.
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" alt="Connect" width="28" height="28" />&nbsp; Connect With Me
-
-<div align="center">
-
-<br/>
-
+<a href="https://yasirmahmood.dev">
+  <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0F172A" />
+</a>
+&nbsp;
 <a href="https://linkedin.com/in/yasirmahmood124">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" />
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/Yasir-Mahmood-124">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/yasir_venture">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
-</a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="mailto:yasir.mahmood.3795@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" />
 </a>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+best+error+message+is+the+one+that+never+shows+up.&author=Thomas+Fuchs" width="500" />
-
-<br/><br/>
 
 </div>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:134e4a,100:0F172A&height=100&section=footer" width="100%" />
