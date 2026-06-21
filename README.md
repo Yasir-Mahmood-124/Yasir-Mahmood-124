@@ -13,7 +13,7 @@
 <br/><br/>
 
 <!-- BADGES -->
-<img src="https://img.shields.io/badge/Software%20Engineer-Kavtech%20Solutions-22C55E?style=for-the-badge&labelColor=0F172A" />&nbsp;<img src="https://img.shields.io/badge/BS%20Computer%20Science-UET%20Lahore-22C55E?style=for-the-badge&labelColor=0F172A" />&nbsp;<a href="https://yasir-portfolio-three.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-yasirmahmood.dev-22C55E?style=for-the-badge&labelColor=0F172A" /></a>
+<img src="https://img.shields.io/badge/Software%20Engineer-Kavtech%20Solutions-22C55E?style=for-the-badge&labelColor=0F172A" />&nbsp;<img src="https://img.shields.io/badge/BS%20Computer%20Science-UET%20Lahore-22C55E?style=for-the-badge&labelColor=0F172A" />
 
 </div>
 
@@ -314,7 +314,7 @@ Whether you've got a product to build, a workflow to automate, or you're hiring 
 
 <br/><br/>
 
-<a href="https://yasirmahmood.dev">
+<a href="https://yasir-portfolio-three.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0F172A" />
 </a>
 &nbsp;&nbsp;
