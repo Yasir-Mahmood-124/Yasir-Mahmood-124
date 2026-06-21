@@ -50,12 +50,44 @@ At **Kavtech Solutions** I work across the full stack — frontend, cloud archit
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="What I Do" width="28" height="28" />&nbsp; What I Do
 
-| | Area | What it means |
-|:--|:--|:--|
-| **01** | **AI-Powered Applications** | Content assistants, marketing assistants, business intelligence, knowledge management tools |
-| **02** | **AI Automation** | Meeting intelligence, lead qualification, email/content generation, CRM and reporting automation |
-| **03** | **System Integrations** | Connecting Gmail, Google Workspace, WordPress, GA4, HubSpot, LinkedIn, and custom APIs into one workflow |
-| **04** | **Custom Internal Tools** | Dashboards, admin portals, reporting systems, workflow and inventory management platforms |
+<p align="center"><i>Four ways I help businesses turn problems into working software.</i></p>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧠 &nbsp; AI-Powered Applications
+
+Applications that use AI to improve productivity and decision-making: content assistants, marketing assistants, business intelligence, and knowledge management tools.
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚡ &nbsp; AI Automation
+
+Automating the repetitive work that drains a team's time: meeting intelligence, lead qualification, email and content generation, CRM and reporting automation.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔗 &nbsp; System Integrations
+
+Connecting the tools a business already uses into one seamless workflow: Gmail, Google Workspace, WordPress, GA4, CRMs, and custom APIs.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔧 &nbsp; Custom Internal Tools
+
+Software that makes internal operations run smoother: dashboards, admin portals, reporting systems, workflow and inventory management platforms.
+
+</td>
+</tr>
+</table>
+</div>
 
 <br/>
 
