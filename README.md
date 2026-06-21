@@ -7,7 +7,7 @@
 
 <!-- TYPING -->
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Building+AI-Powered+Business+Solutions;Architecting+Serverless+Systems+on+AWS;Shipping+Products+from+Idea+to+Production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Building+AI-Powered+Business+Solutions;Building+AI-Powered+Automation+Systems;Building+AI-Powered+Cloud+Applications" alt="Typing SVG" />
 </a>
 
 <br/><br/>
